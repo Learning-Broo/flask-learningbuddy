@@ -1,0 +1,23 @@
+{
+  "name": "flask-learningbuddy",
+  "version": "1.0.0",
+  "description": "express.js setup by audricc",
+  "homepage": "https://github.com/Learning-Broo/flask-learningbuddy#readme",
+  "bugs": {
+    "url": "https://github.com/Learning-Broo/flask-learningbuddy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Learning-Broo/flask-learningbuddy.git"
+  },
+  "license": "ISC",
+  "author": "audricc",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
